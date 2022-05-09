@@ -12,7 +12,7 @@ This gives an introduction to artificial intelligence and then focuses on artifi
 
 3. [A Univaritare Gaussian Classifier and Bivariate Gaussian Classifier both using Maximum Likelihood (MLE) parameter estimation.](</Projects/Assignment 2 part 2/>)
 
-### Lecture Notes 
+### [Lecture Notes](</Lecture Notes/>)
 The AI Course in general Covers the following topics: 
 - Introduction to Artificial Intelligence and Ethical Concerns 
 - Intelligent Agents, Environments, Knowledge Representation and Reasoning
