@@ -10,7 +10,7 @@ This gives an introduction to artificial intelligence and then focuses on artifi
 
 2. [Selecting and Defining Searching Strategies, Sudoku as Constraint Satisfaction Problem(CSP), Maximum Likelihood Estimate (MLE), Gaussian Distribution](</Projects/Assignment 2 Part 1/Assignment 2 part 1.pdf>)
 
-3. [A univaritare Gaussian Classifier and bivariate Gaussian Classifier both using Maximum Likelihood Estimate(MLE) parameter estimation.](</Projects/Assignment 2 part 2/>)
+3. [A Univaritare Gaussian Classifier and Bivariate Gaussian Classifier both using Maximum Likelihood (MLE) parameter estimation.](</Projects/Assignment 2 part 2/>)
 
 ### Lecture Notes 
 The AI Course in general Covers the following topics: 
